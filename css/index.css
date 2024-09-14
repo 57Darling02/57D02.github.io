@@ -6534,7 +6534,7 @@ blockquote.pullquote.right {
   /* 为载入的字体取名字(随意) */
   font-family: 'LXGW';  
   /* 字体文件地址(相对或者绝对路径都可以) */
-  src: url();
+  src: url(https://frp-now.top:13132/d/%E7%A7%81%E4%BA%BA%E5%BE%AE%E6%9C%8D%E5%8A%A1%E5%99%A8/Resource/lxgw.woff2?sign=NwZmqnC7MF-PYR5v4LyyDJaY1TCGtH0lmI8TjF2HUMk=:0);
   /* 定义加粗样式(加粗多少) */
   font-weight: normal;
   /* 定义字体样式(斜体/非斜体) */
